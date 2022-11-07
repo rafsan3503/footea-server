@@ -1,0 +1,164 @@
+[
+    {
+        "name": "Weeding",
+        "price": "300",
+        "img": "https://images.unsplash.com/photo-1667506057454-87e10fb157d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "description": "Your wedding is one of the most special, important and memorable days of your life. Weddings are more than just a union of two people, it is a reunion of friends, family and life-long memories. Our goal is to make your wedding day relaxed and enjoyable for everyone. Your wedding day is filled with breathtaking moments and many emotions, but the big day is notorious for flying by! As your wedding photographers, our job is to capture all the special, heart-warming moments so you will be able to easily reflect on every special detail of your wedding day for the rest of your life. We will provide you with beautiful documentation of your wedding day that will last a lifetime. We will capture wedding portraits of the bride and groom, the wedding party, the families, the guests and all the details and special moments that make the wedding so memorable",
+        "rating": "5",
+        "reviews": [
+            {
+                "user": "Mahmud Hasan",
+                "imgUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+                "review": "I love taking pictures of nature. The more I take pictures of nature the more I want to take pictures of nature. This led me to start weeding. I was a little hesitant. I thought it would be difficult to get the right pictures of weeds and flowers. I was wrong! Weeding photography is easy. You just need a lot of patience.",
+                "rating": "4.6"
+            },
+            {
+                "user": "John Adam",
+                "imgUrl": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+                "review": "This is a new way to enjoy your yard, and it's a great way to relax. Just set the timer and have fun.It was a great idea to create this product.",
+                "rating": "4.6"
+            },
+            {
+                "user": "Maria",
+                "imgUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+                "review": "Weeding photography is the best! They have a great eye for that perfect shot, and will always be my go-to. Their customer service was top notch, and they were always on point when I needed them. I would recommend them to anyone looking for a photographer!",
+                "rating": "4.6"
+            }
+        ]
+    },
+    {
+        "name": "Engagement",
+        "price": "300",
+        "img": "https://images.unsplash.com/photo-1639078007551-b14a57d62c8d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "description": "If you have recently become engaged, it’s time to start planning for the big day.First of all, from A&C Photography: congratulations on your engagement! Planning a wedding is bound to be one of the most exciting and fun parts of your life. Part of this should include planning your engagement photography session. Your session is a great chance to get comfortable with your chosen wedding photographer, as well as a chance to get some fantastic pictures for your “save the date” cards!After your engagement session, we will schedule a time and date to go over all of your fun and romantic photos. We can use this time to go over details for your wedding, choose your favorite shots, and discuss various packages for prints and digital copies.See our options for engagement photography sessions below.",
+        "rating": "5",
+        "reviews": [
+            {
+                "user": "Mahmud Hasan",
+                "imgUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+                "review": "I use photography service for all of my corporate events. The team is very easy to work with, they always listen to my needs, and I can't get over how great the photos are! Totally worth it!",
+                "rating": "4.6"
+            },
+            {
+                "user": "John Adam",
+                "imgUrl": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+                "review": "I'm a professional photographer, I've been working for photography service for the past year, and I absolutely love it. The work is always fun and always interesting. I really enjoy shooting for their events, weddings and all the other events they do. They are an awesome company with an even better team!",
+                "rating": "4.6"
+            },
+            {
+                "user": "Maria",
+                "imgUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+                "review": "photography service is the best out of all the other services I've used. They are so creative, professional and they always make me feel comfortable. It's affordable, too!",
+                "rating": "4.6"
+            }
+        ]
+    },
+    {
+        "name": "Fashion",
+        "price": "500",
+        "img": "https://images.unsplash.com/photo-1647891941746-fe1d53ddc7a6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "description": "We open up our online booking system to allow all your members to schedule their own sessions, at the date, time and location of their choice. We provide a list of approved locations they can choose from. You benefit from a portion (50%) of the collected session fees as well as a percentage of all sales made within the month of your event.",
+        "rating": "5",
+        "reviews": [
+            {
+                "user": "horosphotos",
+                "imgUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+                "review": "Incredible work! Can accomplish what seems like the impossible! I will absolutely be working with him again for professional retouching.",
+                "rating": "4.6"
+            },
+            {
+                "user": "ananovaria",
+                "imgUrl": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+                "review": "OMG. i did not expect this good quality. thank you soooo much. definitely use again 1000%. and highly recommended AAA+++.",
+                "rating": "4.6"
+            },
+            {
+                "user": "shootmythreads",
+                "imgUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+                "review": "Who can find a photo retoucher like this? I'm blown away because Ana is very gifted at what she does! She's polite and I loved the",
+                "rating": "4.6"
+            }
+        ]
+    },
+    {
+        "name": "Food Photography",
+        "price": "300",
+        "img": "https://images.unsplash.com/photo-1550547660-d9450f859349?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+        "description": "Food photography is a still life photography genre used to create attractive still life photographs of food. It is a specialization of commercial photography, the products of which are used in advertisements, magazines, packaging, menus or cookbooks.",
+        "rating": "5",
+        "reviews": [
+            {
+                "user": "aizah_khan",
+                "imgUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+                "review": "This Excellent. I'm very much looking forward to posting. Plus it is something I wouldn't have thought of on my own. Thanks, Again.",
+                "rating": "4.6"
+            },
+            {
+                "user": "vclaudiu",
+                "imgUrl": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+                "review": "Super freundlicher Kontakt. Mega Bilder! Lena macht eine super Arbeit. Wenn ich nochmals Bilder benötige, komme ich. auf Lena zurück.",
+                "rating": "4.6"
+            },
+            {
+                "user": "savisione",
+                "imgUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+                "review": "Very happy with the editing work that I received for my product. Seller delivered very quickly indeed. Followed what my thought process was for the design i needed. Very happy with the service provided from this seller. Would use seller again. Highly recomnmended!",
+                "rating": "4.6"
+            }
+        ]
+    },
+    {
+        "name": "Event Photography",
+        "price": "200",
+        "img": "https://images.unsplash.com/photo-1561489396-888724a1543d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "description": "Over the years we have covered many different types of events. Our Silly Studio photo booth rental is a very popular feature at company events, birthday parties, bar and bat mitzvahs and weddings. We have covered fundraising events for non-profit organizations, such as Walk with Sally, and also political events that raise money for certain causes. We have taken photographs at school dances and other school-wide events. We covered a three day event for Mentor Graphics that included multiple awards ceremonies and a banquet dinner with over 3,000 attendees. For the past six years we have covered Living Spaces’ company picnic and holiday party.",
+        "rating": "3.5",
+        "reviews": [
+            {
+                "user": "Alex",
+                "imgUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+                "review": "I know what you're thinking: Oh, I can get a photography service for cheaper than that. But let me tell you this: the reviews speak for themselves. It's no secret why they are the go-to service in our area.",
+                "rating": "4.6"
+            },
+            {
+                "user": "Nisha",
+                "imgUrl": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+                "review": "I'm a real estate agent and I get a lot of headshots for my clients. I found this photography service and the quality of their work is just amazing! I've been using them for over a year now and I can't be happier with the service that they have provided me.",
+                "rating": "4.6"
+            },
+            {
+                "user": "Natasha",
+                "imgUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+                "review": "Weeding photography is the best! They have a great eye for that perfect shot, and will always be my go-to. Their customer service was top notch, and they were always on point when I needed them. I would recommend them to anyone looking for a photographer!",
+                "rating": "4.6"
+            }
+        ]
+    },
+    {
+        "name": "Shop/Brand",
+        "price": "350",
+        "img": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "description": "Brand photography is a suite of professional images that represent your business visually, and fit with your visual identity through their use of colours, tone, props, sets and more. These can include photos of you, your team, your products, your process, your space and other things that make your business unique.",
+        "rating": "4.5",
+        "reviews": [
+            {
+                "user": "Alexandar",
+                "imgUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+                "review": "Photography is one of the best feelings in the world. It's a really beautiful thing and I'm so happy that I get to document memories for people.",
+                "rating": "4.6"
+            },
+            {
+                "user": "Riba",
+                "imgUrl": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+                "review": "I really like photography. It's the perfect app for my needs and goals, and it is a lot cheaper than other apps of its type. I am impressed with their quick response time, especially to new features they add in. This is a great way to show your creative side!",
+                "rating": "4.6"
+            },
+            {
+                "user": "Alisha",
+                "imgUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+                "review": "I was really impressed with the photography service. The photographer was so nice and we got some really good shots! It was an amazing experience I would recommend to anyone who wants good quality photos and a fair price.",
+                "rating": "4.6"
+            }
+        ]
+    }
+]
