@@ -25,6 +25,7 @@ const client = new MongoClient(uri, {
 async function run() {
   try {
     const serviceCollection = client.db("footea").collection("services");
+    const reviewsCollection = client.db("footea").collection("reviews");
 
     // get services
     app.get("/services", async (req, res) => {
@@ -46,6 +47,16 @@ async function run() {
       const query = { _id: ObjectId(id) };
       const result = await serviceCollection.findOne(query);
       res.send(result);
+      console.log(id);
+    });
+
+    // get reviews by id
+    app.get("/reviews/:id", async (req, res) => {
+      const id = req.params.id;
+      const query = { serviceId: id };
+      const cursor = reviewsCollection.find(query);
+      const reviews = await cursor.toArray();
+      res.send(reviews);
       console.log(id);
     });
   } finally {
