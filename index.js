@@ -52,22 +52,28 @@ async function run() {
 
     // get services
     app.get("/services", async (req, res) => {
-      const resize = parseInt(req.query.size);
-      const size = parseInt(req.query.size);
-      const page = parseInt(req.query.page);
-      const count = serviceCollection.estimatedDocumentCount();
+      const resize = parseInt(req.query.resize);
       const query = {};
-      const cursor = serviceCollection.find(query).sort({ date: -1 });
-      if (size) {
+      if (resize) {
+        const cursor = serviceCollection.find(query).sort({ date: -1 });
         const services = await cursor.limit(resize).toArray();
         res.send(services);
         return;
       }
-      const services = await cursor
-        .skip(size * page)
-        .limit(size)
-        .toArray();
-      res.send({ services, count });
+      const cursor = serviceCollection.find(query);
+      const size = parseInt(req.query.size);
+      const page = parseInt(req.query.page);
+      const count = await serviceCollection.estimatedDocumentCount();
+      if (size || page) {
+        const services = await cursor
+          .skip(size * page)
+          .limit(size)
+          .toArray();
+        res.send({ count, services });
+        return;
+      }
+      const services = await cursor.toArray();
+      res.send({ count, services });
     });
 
     // get single service
