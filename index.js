@@ -43,6 +43,13 @@ async function run() {
     const serviceCollection = client.db("footea").collection("services");
     const reviewsCollection = client.db("footea").collection("reviews");
 
+    // jwt sign
+    app.post("/jwt", (req, res) => {
+      const user = req.body;
+      const token = jwt.sign(user, process.env.ACCESS_TOKEN);
+      res.send({ token });
+    });
+
     // get services
     app.get("/services", async (req, res) => {
       const size = parseInt(req.query.size);
@@ -67,7 +74,7 @@ async function run() {
     });
 
     // insert service
-    app.post("/services", async (req, res) => {
+    app.post("/services", verifyJWT, async (req, res) => {
       const service = req.body;
       const result = await serviceCollection.insertOne(service);
       res.send(result);
@@ -104,7 +111,7 @@ async function run() {
     });
 
     // delete review
-    app.delete("/myreviews/:id", async (req, res) => {
+    app.delete("/myreviews/:id", verifyJWT, async (req, res) => {
       const id = req.params.id;
       const query = { _id: ObjectId(id) };
       const result = await reviewsCollection.deleteOne(query);
@@ -113,7 +120,7 @@ async function run() {
 
     // update review
 
-    app.put("/myreviews/:id", async (req, res) => {
+    app.put("/myreviews/:id", verifyJWT, async (req, res) => {
       const id = req.params.id;
       const review = req.body;
       const query = { _id: ObjectId(id) };
@@ -129,13 +136,6 @@ async function run() {
         options
       );
       res.send({ result });
-    });
-
-    // jwt sign
-    app.post("/jwt", (req, res) => {
-      const user = req.body;
-      const token = jwt.sign(user, process.env.ACCESS_TOKEN);
-      res.send({ token });
     });
   } finally {
   }
